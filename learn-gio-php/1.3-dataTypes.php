@@ -40,3 +40,7 @@ function sum($x, $y)
 }
 
 echo sum(2, 3);
+
+$a = (int) '5';
+
+var_dump($a);
