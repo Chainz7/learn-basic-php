@@ -9,5 +9,6 @@ $d = PHP_INT_MAX + 1;
 
 $x = (int)5.99;
 $y = (int)'85abc92';
+$z = 200_000_000;
 
 echo $x;
